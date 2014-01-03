@@ -1,0 +1,6 @@
+aapl_a_income.csv http://investing.businessweek.com/research/stocks/financials/financials.asp?ticker=AAPL&dataset=incomeStatement&period=A&currency=native
+aapl_q_income.csv http://investing.businessweek.com/research/stocks/financials/financials.asp?ticker=AAPL&dataset=incomeStatement&period=Q&currency=native
+aapl_a_bal.csv http://investing.businessweek.com/research/stocks/financials/financials.asp?ticker=AAPL&dataset=balanceSheet&period=A&currency=native
+aapl_q_bal.csv http://investing.businessweek.com/research/stocks/financials/financials.asp?ticker=AAPL&dataset=balanceSheet&period=Q&currency=native
+appl_a_cash.csv http://investing.businessweek.com/research/stocks/financials/financials.asp?ticker=AAPL&dataset=cashFlow&period=A&currency=native
+appl_q_cash.csv http://investing.businessweek.com/research/stocks/financials/financials.asp?ticker=AAPL&dataset=cashFlow&period=Q&currency=native
